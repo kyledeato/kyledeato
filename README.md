@@ -1,7 +1,7 @@
 <h1 align="center">Hello Hello, I'm Kyle</h1>
 <h3 align="center">A passionate full-stack developer from LA who loves creating ideas to reality.</h3>
 
-- 🤝 I’m looking for help with **a job! lol**
+- 🤝 I’m looking for **a job! lol**
 
 - 👨‍💻 All of my projects are available at [https://kyledeato.github.io/](https://kyledeato.github.io/)
 
